@@ -1,2 +1,2 @@
 # UrbanLease-Solutions
-A versatile property rental agency database system
+A Versatile Property Rental Agency Database System
